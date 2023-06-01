@@ -159,3 +159,124 @@
             "inv": "<:emblem_r:1094387478313570314> STAY"
         }
     ],
+    "BPST_JN_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **JENNIE STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/JN_C.png?format=png",
+            "theme": "STAY",
+            "inv": "<:ac_emblem:1086608258464235540> STAY"
+        }
+    ],
+    "BPST_JN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **JENNIE STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/JN_B.png?format=png",
+            "theme": "STAY",
+            "inv": "<:B_LOGO:1089020310508015626> STAY"
+        }
+    ],
+    "BPST_JN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **JENNIE STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/JN_A.png?format=png",
+            "theme": "STAY",
+            "inv": "<:emblem_s:1094387291784495134> STAY"
+        }
+    ],
+    "BPST_JN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **JENNIE STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/JN_S.png?format=png",
+            "theme": "STAY",
+            "inv": "<:emblem_s:1094387291784495134> STAY"
+        }
+    ],
+    "BPST_JN_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **JENNIE STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/JN_R.png?format=png",
+            "theme": "STAY",
+            "inv": "<:emblem_r:1094387478313570314> STAY"
+        }
+    ],
+    "BPST_RS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ROSÉ STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/RS_C.png?format=png",
+            "theme": "STAY",
+            "inv": "<:ac_emblem:1086608258464235540> STAY"
+        }
+    ],
+    "BPST_RS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ROSÉ STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/RS_B.png?format=png",
+            "theme": "STAY",
+            "inv": "<:B_LOGO:1089020310508015626> STAY"
+        }
+    ],
+    "BPST_RS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ROSÉ STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/RS_A.png?format=png",
+            "theme": "STAY",
+            "inv": "<:emblem_s:1094387291784495134> STAY"
+        }
+    ],
+    "BPST_RS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ROSÉ STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/RS_S.png?format=png",
+            "theme": "STAY",
+            "inv": "<:emblem_s:1094387291784495134> STAY"
+        }
+    ],
+    "BPST_RS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ROSÉ STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/RS_R.png?format=png",
+            "theme": "STAY",
+            "inv": "<:emblem_r:1094387478313570314> STAY"
+        }
+    ],
+    "BPST_LS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LISA STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/LS_C.png?format=png",
+            "theme": "STAY",
+            "inv": "<:ac_emblem:1086608258464235540> STAY"
+        }
+    ],
+    "BPST_LS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **LISA STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/LS_B.png?format=png",
+            "theme": "STAY",
+            "inv": "<:B_LOGO:1089020310508015626> STAY"
+        }
+    ],
+    "BPST_LS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **LISA STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/LS_A.png?format=png",
+            "theme": "STAY",
+            "inv": "<:emblem_s:1094387291784495134> STAY"
+        }
+    ],
+    "BPST_LS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **LISA STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/LS_S.png?format=png",
+            "theme": "STAY",
+            "inv": "<:emblem_s:1094387291784495134> STAY"
+        }
+    ],
+    "BPST_LS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **LISA STAY**",
+            "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/LS_R.png?format=png",
+            "theme": "STAY",
+            "inv": "<:emblem_r:1094387478313570314> STAY"
+        }
+    ]
+}
