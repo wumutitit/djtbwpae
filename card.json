@@ -20,7 +20,7 @@
             "name": "<:emblem_a:1094386551212998778> **JAEHYUN `Vocal` Try Again**",
             "image": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oPn6x6kaQigxzpjhYOLP-urGfv3JCYm5_HtwqODb6r5MnF4aMl7qs0htgLbCdK9pfTAB77F5zT6Yg6bw2DJFTwV_lsWg=s2560",
             "theme": "Try Again",
-            "inv": "<:emblem_s:1094387291784495134> Try Again"
+            "inv": "<:emblem_a:1094386551212998778> Try Again"
         }
     ],
     "JHTA_VO_S": [
@@ -60,7 +60,7 @@
             "name": "<:emblem_a:1094386551212998778> **JAEHYUN `Dance` Try Again**",
             "image": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pvVaS2064g8ph2Ff6b8PfDZZMBHpufUGrf_tJVk-NM6PfDYOeSJwpR6YRuyxAVwduZc9nwnHAwJXHIZyTP4uPfBRe1=s2560",
             "theme": "Try Again",
-            "inv": "<:emblem_s:1094387291784495134> Try Again"
+            "inv": "<:emblem_a:1094386551212998778> Try Again"
         }
     ],
     "JHTA_DA_S": [
@@ -100,7 +100,7 @@
             "name": "<:emblem_a:1094386551212998778> **JAEHYUN `Rhythm` Try Again**",
             "image": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81obyraNVLB9eR7KYEX0YKVYteJUflxaCQo9ENX4Ofp3Rg_UKTnpE80yQf7lOhX14u3N5ht0x7ZUSqpQVJ20NCIeIg2D_g=s2560",
             "theme": "Try Again",
-            "inv": "<:emblem_s:1094387291784495134> Try Again"
+            "inv": "<:emblem_a:1094386551212998778> Try Again"
         }
     ],
     "JHTA_RH_S": [
@@ -140,7 +140,7 @@
             "name": "<:emblem_a:1094386551212998778> **JISOO STAY**",
             "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/JS_A.png?format=png",
             "theme": "STAY",
-            "inv": "<:emblem_s:1094387291784495134> STAY"
+            "inv": "<:emblem_a:1094386551212998778> STAY"
         }
     ],
     "BPST_JS_S": [
@@ -180,7 +180,7 @@
             "name": "<:emblem_a:1094386551212998778> **JENNIE STAY**",
             "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/JN_A.png?format=png",
             "theme": "STAY",
-            "inv": "<:emblem_s:1094387291784495134> STAY"
+            "inv": "<:emblem_a:1094386551212998778> STAY"
         }
     ],
     "BPST_JN_S": [
@@ -220,7 +220,7 @@
             "name": "<:emblem_a:1094386551212998778> **ROSÉ STAY**",
             "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/RS_A.png?format=png",
             "theme": "STAY",
-            "inv": "<:emblem_s:1094387291784495134> STAY"
+            "inv": "<:emblem_a:1094386551212998778> STAY"
         }
     ],
     "BPST_RS_S": [
@@ -260,7 +260,7 @@
             "name": "<:emblem_a:1094386551212998778> **LISA STAY**",
             "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/LS_A.png?format=png",
             "theme": "STAY",
-            "inv": "<:emblem_s:1094387291784495134> STAY"
+            "inv": "<:emblem_a:1094386551212998778> STAY"
         }
     ],
     "BPST_LS_S": [
@@ -277,6 +277,126 @@
             "image": "https://yoshihwan.sirv.com/cards/blackpink/stay/LS_R.png?format=png",
             "theme": "STAY",
             "inv": "<:emblem_r:1094387478313570314> STAY"
+        }
+    ],
+    "MIDR_VO_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **MIYEON `Vocal` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/VO_C.png?format=png",
+            "theme": "Drive",
+            "inv": "<:ac_emblem:1086608258464235540> Drive"
+        }
+    ],
+    "MIDR_VO_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **MIYEON `Vocal` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/VO_B.png?format=png",
+            "theme": "Drive",
+            "inv": "<:B_LOGO:1089020310508015626> Drive"
+        }
+    ],
+    "MIDR_VO_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **MIYEON `Vocal` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/VO_A.png?format=png",
+            "theme": "Drive",
+            "inv": "<:emblem_a:1094386551212998778> Drive"
+        }
+    ],
+    "MIDR_VO_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **MIYEON `Vocal` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/VO_S.png?format=png",
+            "theme": "Drive",
+            "inv": "<:emblem_s:1094387291784495134> Drive"
+        }
+    ],
+    "MIDR_VO_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **MIYEON `Vocal` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/VO_R.png?format=png",
+            "theme": "Drive",
+            "inv": "<:emblem_r:1094387478313570314> Drive"
+        }
+    ],
+    "MIDR_DA_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **MIYEON `Dance` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/DA_C.png?format=png",
+            "theme": "Drive",
+            "inv": "<:ac_emblem:1086608258464235540> Drive"
+        }
+    ],
+    "MIDR_DA_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **MIYEON `Dance` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/DA_B.png?format=png",
+            "theme": "Drive",
+            "inv": "<:B_LOGO:1089020310508015626> Drive"
+        }
+    ],
+    "MIDR_DA_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **MIYEON `Dance` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/DA_A.png?format=png",
+            "theme": "Drive",
+            "inv": "<:emblem_a:1094386551212998778> Drive"
+        }
+    ],
+    "MIDR_DA_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **MIYEON `Dance` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/DA_S.png?format=png",
+            "theme": "Drive",
+            "inv": "<:emblem_s:1094387291784495134> Drive"
+        }
+    ],
+    "MIDR_DA_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **MIYEON `Dance` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/DA_R.png?format=png",
+            "theme": "Drive",
+            "inv": "<:emblem_r:1094387478313570314> Drive"
+        }
+    ],
+    "MIDR_RH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **MIYEON `Rhythm` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/RH_C.png?format=png",
+            "theme": "Drive",
+            "inv": "<:ac_emblem:1086608258464235540> Drive"
+        }
+    ],
+    "MIDR_RH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **MIYEON `Rhythm` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/RH_B.png?format=png",
+            "theme": "Drive",
+            "inv": "<:B_LOGO:1089020310508015626> Drive"
+        }
+    ],
+    "MIDR_RH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **MIYEON `Rhythm` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/RH_A.png?format=png",
+            "theme": "Drive",
+            "inv": "<:emblem_a:1094386551212998778> Drive"
+        }
+    ],
+    "MIDR_RH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **MIYEON `Rhythm` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/RH_S.png?format=png",
+            "theme": "Drive",
+            "inv": "<:emblem_s:1094387291784495134> Drive"
+        }
+    ],
+    "MIDR_RH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **MIYEON `Rhythm` Drive**",
+            "image": "https://yoshihwan.sirv.com/cards/gidle/miyeon/drive/RH_R.png?format=png",
+            "theme": "Drive",
+            "inv": "<:emblem_r:1094387478313570314> Drive"
         }
     ]
 }
