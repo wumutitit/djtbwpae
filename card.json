@@ -1078,5 +1078,245 @@
             "theme": "Never Goodbye",
             "inv": "<:emblem_r:1094387478313570314> Never Goodbye"
         }
+    ],
+    "XDGE_GN_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **XDINARY HEROES GUNIL Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/GN_C.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:ac_emblem:1086608258464235540> Good enough"
+        }
+    ],
+    "XDGE_GN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **XDINARY HEROES GUNIL Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/GN_B.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:B_LOGO:1089020310508015626> Good enough"
+        }
+    ],
+    "XDGE_GN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **XDINARY HEROES GUNIL Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/GN_A.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_a:1094386551212998778> Good enough"
+        }
+    ],
+    "XDGE_GN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **XDINARY HEROES GUNIL Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/GN_S.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_s:1094387291784495134> Good enough"
+        }
+    ],
+    "XDGE_GN_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **XDINARY HEROES GUNIL Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/GN_R.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_r:1094387478313570314> Good enough"
+        }
+    ],
+    "XDGE_JS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **XDINARY HEROES JUNGSU Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JS_C.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:ac_emblem:1086608258464235540> Good enough"
+        }
+    ],
+    "XDGE_JS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **XDINARY HEROES JUNGSU Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JS_B.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:B_LOGO:1089020310508015626> Good enough"
+        }
+    ],
+    "XDGE_JS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **XDINARY HEROES JUNGSU Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JS_A.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_a:1094386551212998778> Good enough"
+        }
+    ],
+    "XDGE_JS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **XDINARY HEROES JUNGSU Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JS_S.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_s:1094387291784495134> Good enough"
+        }
+    ],
+    "XDGE_JS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **XDINARY HEROES JUNGSU Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JS_R.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_r:1094387478313570314> Good enough"
+        }
+    ],
+    "XDGE_GA_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **XDINARY HEROES GAON Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/GA_C.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:ac_emblem:1086608258464235540> Good enough"
+        }
+    ],
+    "XDGE_GA_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **XDINARY HEROES GAON Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/GA_B.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:B_LOGO:1089020310508015626> Good enough"
+        }
+    ],
+    "XDGE_GA_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **XDINARY HEROES GAON Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/GA_A.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_a:1094386551212998778> Good enough"
+        }
+    ],
+    "XDGE_GA_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **XDINARY HEROES GAON Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/GA_S.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_s:1094387291784495134> Good enough"
+        }
+    ],
+    "XDGE_GA_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **XDINARY HEROES GAON Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/GA_R.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_r:1094387478313570314> Good enough"
+        }
+    ],
+    "XDGE_OD_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **XDINARY HEROES O.DE Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/OD_C.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:ac_emblem:1086608258464235540> Good enough"
+        }
+    ],
+    "XDGE_OD_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **XDINARY HEROES O.DE Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/OD_B.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:B_LOGO:1089020310508015626> Good enough"
+        }
+    ],
+    "XDGE_OD_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **XDINARY HEROES O.DE Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/OD_A.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_a:1094386551212998778> Good enough"
+        }
+    ],
+    "XDGE_OD_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **XDINARY HEROES O.DE Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/OD_S.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_s:1094387291784495134> Good enough"
+        }
+    ],
+    "XDGE_OD_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **XDINARY HEROES O.DE Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/OD_R.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_r:1094387478313570314> Good enough"
+        }
+    ],
+    "XDGE_JH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **XDINARY HEROES JUNHAN Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JH_C.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:ac_emblem:1086608258464235540> Good enough"
+        }
+    ],
+    "XDGE_JH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **XDINARY HEROES JUNHAN Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JH_B.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:B_LOGO:1089020310508015626> Good enough"
+        }
+    ],
+    "XDGE_JH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **XDINARY HEROES JUNHAN Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JH_A.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_a:1094386551212998778> Good enough"
+        }
+    ],
+    "XDGE_JH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **XDINARY HEROES JUNHAN Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JH_S.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_s:1094387291784495134> Good enough"
+        }
+    ],
+    "XDGE_JH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **XDINARY HEROES JUNHAN Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JH_R.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_r:1094387478313570314> Good enough"
+        }
+    ],
+    "XDGE_JY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **XDINARY HEROES JOOYEON Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JY_C.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:ac_emblem:1086608258464235540> Good enough"
+        }
+    ],
+    "XDGE_JY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **XDINARY HEROES JOOYEON Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JY_B.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:B_LOGO:1089020310508015626> Good enough"
+        }
+    ],
+    "XDGE_JY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **XDINARY HEROES JOOYEON Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JY_A.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_a:1094386551212998778> Good enough"
+        }
+    ],
+    "XDGE_JY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **XDINARY HEROES JOOYEON Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JY_S.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_s:1094387291784495134> Good enough"
+        }
+    ],
+    "XDGE_JY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **XDINARY HEROES JOOYEON Good enough**",
+            "image": "https://yoshihwan.sirv.com/cards/xdinaryheroes/good%20enough/JY_R.png?format=png",
+            "theme": "Good enough",
+            "inv": "<:emblem_r:1094387478313570314> Good enough"
+        }
     ]
 }
