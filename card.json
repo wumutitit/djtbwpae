@@ -1318,5 +1318,365 @@
             "theme": "Good enough",
             "inv": "<:emblem_r:1094387478313570314> Good enough"
         }
+    ],
+    "TWRB_NY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TWICE NAYEON READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/NY_C.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:ac_emblem:1086608258464235540> READY TO BE"
+        }
+    ],
+    "TWRB_NY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TWICE NAYEON READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/NY_B.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:B_LOGO:1089020310508015626> READY TO BE"
+        }
+    ],
+    "TWRB_NY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TWICE NAYEON READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/NY_A.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_a:1094386551212998778> READY TO BE"
+        }
+    ],
+    "TWRB_NY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TWICE NAYEON READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/NY_S.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_s:1094387291784495134> READY TO BE"
+        }
+    ],
+    "TWRB_NY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TWICE NAYEON READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/NY_R.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_r:1094387478313570314> READY TO BE"
+        }
+    ],
+    "TWRB_JY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TWICE JEONGYEON READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/JY_C.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:ac_emblem:1086608258464235540> READY TO BE"
+        }
+    ],
+    "TWRB_JY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TWICE JEONGYEON READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/JY_B.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:B_LOGO:1089020310508015626> READY TO BE"
+        }
+    ],
+    "TWRB_JY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TWICE JEONGYEON READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/JY_A.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_a:1094386551212998778> READY TO BE"
+        }
+    ],
+    "TWRB_JY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TWICE JEONGYEON READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/JY_S.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_s:1094387291784495134> READY TO BE"
+        }
+    ],
+    "TWRB_JY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TWICE JEONGYEON READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/JY_R.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_r:1094387478313570314> READY TO BE"
+        }
+    ],
+    "TWRB_MM_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TWICE MOMO READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/MM_C.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:ac_emblem:1086608258464235540> READY TO BE"
+        }
+    ],
+    "TWRB_MM_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TWICE MOMO READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/MM_B.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:B_LOGO:1089020310508015626> READY TO BE"
+        }
+    ],
+    "TWRB_MM_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TWICE MOMO READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/MM_A.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_a:1094386551212998778> READY TO BE"
+        }
+    ],
+    "TWRB_MM_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TWICE MOMO READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/MM_S.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_s:1094387291784495134> READY TO BE"
+        }
+    ],
+    "TWRB_MM_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TWICE MOMO READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/MM_R.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_r:1094387478313570314> READY TO BE"
+        }
+    ],
+    "TWRB_SN_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TWICE SANA READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/SN_C.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:ac_emblem:1086608258464235540> READY TO BE"
+        }
+    ],
+    "TWRB_SN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TWICE SANA READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/SN_B.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:B_LOGO:1089020310508015626> READY TO BE"
+        }
+    ],
+    "TWRB_SN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TWICE SANA READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/SN_A.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_a:1094386551212998778> READY TO BE"
+        }
+    ],
+    "TWRB_SN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TWICE SANA READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/SN_S.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_s:1094387291784495134> READY TO BE"
+        }
+    ],
+    "TWRB_SN_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TWICE SANA READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/SN_R.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_r:1094387478313570314> READY TO BE"
+        }
+    ],
+    "TWRB_JH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TWICE JIHYO READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/JH_C.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:ac_emblem:1086608258464235540> READY TO BE"
+        }
+    ],
+    "TWRB_JH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TWICE JIHYO READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/JH_B.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:B_LOGO:1089020310508015626> READY TO BE"
+        }
+    ],
+    "TWRB_JH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TWICE JIHYO READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/JH_A.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_a:1094386551212998778> READY TO BE"
+        }
+    ],
+    "TWRB_JH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TWICE JIHYO READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/JH_S.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_s:1094387291784495134> READY TO BE"
+        }
+    ],
+    "TWRB_JH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TWICE JIHYO READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/JH_R.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_r:1094387478313570314> READY TO BE"
+        }
+    ],
+    "TWRB_MN_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TWICE MINA READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/MN_C.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:ac_emblem:1086608258464235540> READY TO BE"
+        }
+    ],
+    "TWRB_MN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TWICE MINA READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/MN_B.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:B_LOGO:1089020310508015626> READY TO BE"
+        }
+    ],
+    "TWRB_MN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TWICE MINA READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/MN_A.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_a:1094386551212998778> READY TO BE"
+        }
+    ],
+    "TWRB_MN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TWICE MINA READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/MN_S.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_s:1094387291784495134> READY TO BE"
+        }
+    ],
+    "TWRB_MN_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TWICE MINA READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/MN_R.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_r:1094387478313570314> READY TO BE"
+        }
+    ],
+    "TWRB_DH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TWICE DAHYUN READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/DH_C.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:ac_emblem:1086608258464235540> READY TO BE"
+        }
+    ],
+    "TWRB_DH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TWICE DAHYUN READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/DH_B.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:B_LOGO:1089020310508015626> READY TO BE"
+        }
+    ],
+    "TWRB_DH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TWICE DAHYUN READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/DH_A.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_a:1094386551212998778> READY TO BE"
+        }
+    ],
+    "TWRB_DH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TWICE DAHYUN READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/DH_S.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_s:1094387291784495134> READY TO BE"
+        }
+    ],
+    "TWRB_DH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TWICE DAHYUN READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/DH_R.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_r:1094387478313570314> READY TO BE"
+        }
+    ],
+    "TWRB_CY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TWICE CHAEYOUNG READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/CY_C.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:ac_emblem:1086608258464235540> READY TO BE"
+        }
+    ],
+    "TWRB_CY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TWICE CHAEYOUNG READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/CY_B.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:B_LOGO:1089020310508015626> READY TO BE"
+        }
+    ],
+    "TWRB_CY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TWICE CHAEYOUNG READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/CY_A.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_a:1094386551212998778> READY TO BE"
+        }
+    ],
+    "TWRB_CY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TWICE CHAEYOUNG READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/CY_S.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_s:1094387291784495134> READY TO BE"
+        }
+    ],
+    "TWRB_CY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TWICE CHAEYOUNG READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/CY_R.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_r:1094387478313570314> READY TO BE"
+        }
+    ],
+    "TWRB_TY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TWICE TZUYU READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/TY_C.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:ac_emblem:1086608258464235540> READY TO BE"
+        }
+    ],
+    "TWRB_TY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TWICE TZUYU READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/TY_B.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:B_LOGO:1089020310508015626> READY TO BE"
+        }
+    ],
+    "TWRB_TY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TWICE TZUYU READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/TY_A.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_a:1094386551212998778> READY TO BE"
+        }
+    ],
+    "TWRB_TY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TWICE TZUYU READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/TY_S.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_s:1094387291784495134> READY TO BE"
+        }
+    ],
+    "TWRB_TY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TWICE TZUYU READY TO BE**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/readytobe/TY_R.png?format=png",
+            "theme": "READY TO BE",
+            "inv": "<:emblem_r:1094387478313570314> READY TO BE"
+        }
     ]
 }
