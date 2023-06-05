@@ -1678,5 +1678,125 @@
             "theme": "READY TO BE",
             "inv": "<:emblem_r:1094387478313570314> READY TO BE"
         }
+    ],
+    "IULL_VO_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IU `Vocal` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/VO_C.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:ac_emblem:1086608258464235540> LILAC"
+        }
+    ],
+    "IULL_VO_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IU `Vocal` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/VO_B.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:B_LOGO:1089020310508015626> LILAC"
+        }
+    ],
+    "IULL_VO_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IU `Vocal` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/VO_A.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:emblem_a:1094386551212998778> LILAC"
+        }
+    ],
+    "IULL_VO_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IU `Vocal` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/VO_S.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:emblem_s:1094387291784495134> LILAC"
+        }
+    ],
+    "IULL_VO_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IU `Vocal` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/VO_R.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:emblem_r:1094387478313570314> LILAC"
+        }
+    ],
+    "IULL_DA_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IU `Dance` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/DA_C.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:ac_emblem:1086608258464235540> LILAC"
+        }
+    ],
+    "IULL_DA_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IU `Dance` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/DA_B.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:B_LOGO:1089020310508015626> LILAC"
+        }
+    ],
+    "IULL_DA_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IU `Dance` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/DA_A.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:emblem_a:1094386551212998778> LILAC"
+        }
+    ],
+    "IULL_DA_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IU `Dance` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/DA_S.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:emblem_s:1094387291784495134> LILAC"
+        }
+    ],
+    "IULL_DA_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IU `Dance` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/DA_R.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:emblem_r:1094387478313570314> LILAC"
+        }
+    ],
+    "IULL_RH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IU `Rhythm` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/RH_C.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:ac_emblem:1086608258464235540> LILAC"
+        }
+    ],
+    "IULL_RH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IU `Rhythm` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/RH_B.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:B_LOGO:1089020310508015626> LILAC"
+        }
+    ],
+    "IULL_RH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IU `Rhythm` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/RH_A.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:emblem_a:1094386551212998778> LILAC"
+        }
+    ],
+    "IULL_RH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IU `Rhythm` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/RH_S.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:emblem_s:1094387291784495134> LILAC"
+        }
+    ],
+    "IULL_RH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IU `Rhythm` LILAC**",
+            "image": "https://yoshihwan.sirv.com/cards/iu/lilac/RH_R.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:emblem_r:1094387478313570314> LILAC"
+        }
     ]
 }
