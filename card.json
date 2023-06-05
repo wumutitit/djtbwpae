@@ -1798,5 +1798,125 @@
             "theme": "LILAC",
             "inv": "<:emblem_r:1094387478313570314> LILAC"
         }
+    ],
+    "TYWE_VO_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TAEYEON `Vocal` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/VO_C.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:ac_emblem:1086608258464235540> Weekend"
+        }
+    ],
+    "TYWE_VO_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TAEYEON `Vocal` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/VO_B.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:B_LOGO:1089020310508015626> Weekend"
+        }
+    ],
+    "TYWE_VO_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TAEYEON `Vocal` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/VO_A.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:emblem_a:1094386551212998778> Weekend"
+        }
+    ],
+    "TYWE_VO_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TAEYEON `Vocal` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/VO_S.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:emblem_s:1094387291784495134> Weekend"
+        }
+    ],
+    "TYWE_VO_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TAEYEON `Vocal` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/VO_R.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:emblem_r:1094387478313570314> Weekend"
+        }
+    ],
+    "TYWE_DA_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TAEYEON `Dance` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/DA_C.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:ac_emblem:1086608258464235540> Weekend"
+        }
+    ],
+    "TYWE_DA_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TAEYEON `Dance` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/DA_B.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:B_LOGO:1089020310508015626> Weekend"
+        }
+    ],
+    "TYWE_DA_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TAEYEON `Dance` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/DA_A.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:emblem_a:1094386551212998778> Weekend"
+        }
+    ],
+    "TYWE_DA_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TAEYEON `Dance` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/DA_S.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:emblem_s:1094387291784495134> Weekend"
+        }
+    ],
+    "TYWE_DA_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TAEYEON `Dance` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/DA_R.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:emblem_r:1094387478313570314> Weekend"
+        }
+    ],
+    "TYWE_RH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TAEYEON `Rhythm` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/RH_C.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:ac_emblem:1086608258464235540> Weekend"
+        }
+    ],
+    "TYWE_RH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TAEYEON `Rhythm` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/RH_B.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:B_LOGO:1089020310508015626> Weekend"
+        }
+    ],
+    "TYWE_RH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TAEYEON `Rhythm` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/RH_A.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:emblem_a:1094386551212998778> Weekend"
+        }
+    ],
+    "TYWE_RH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TAEYEON `Rhythm` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/RH_S.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:emblem_s:1094387291784495134> Weekend"
+        }
+    ],
+    "TYWE_RH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TAEYEON `Rhythm` Weekend**",
+            "image": "https://yoshihwan.sirv.com/cards/girlsgeneration/taeyeon/weekend/RH_R.png?format=png",
+            "theme": "Weekend",
+            "inv": "<:emblem_r:1094387478313570314> Weekend"
+        }
     ]
 }
