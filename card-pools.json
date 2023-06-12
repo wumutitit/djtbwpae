@@ -10,7 +10,8 @@
      {
      "card1": "AEIH_KR;AEIH_GS;AEIH_WT;AEIH_NN",
       "card2": "AEIH_NN;AEIH_WT;AEIH_GS;AEIH_KR",
-      "card3": "AEIH_GS;AEIH_NN;AEIH_KR;AEIH_WT"
+      "card3": "AEIH_GS;AEIH_NN;AEIH_KR;AEIH_WT",
+      "arcade": "AEIH_KR;AEIH_WT;AEIH_NN;AEIH_GS"
       }
       ]
                              }
