@@ -2198,5 +2198,245 @@
             "theme": "I'm Unhappy",
             "inv": "<:emblem_r:1094387478313570314> I'm Unhappy"
         }
+    ],
+    "NMLM_LL_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NMIXX LILY Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/LL_C.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:ac_emblem:1086608258464235540> Love Me Like This"
+        }
+    ],
+    "NMLM_LL_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NMIXX LILY Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/LL_B.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
+        }
+    ],
+    "NMLM_LL_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NMIXX LILY Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/LL_A.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_a:1094386551212998778> Love Me Like This"
+        }
+    ],
+    "NMLM_LL_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NMIXX LILY Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/LL_S.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_s:1094387291784495134> Love Me Like This"
+        }
+    ],
+    "NMLM_LL_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **NMIXX LILY Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/LL_R.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_r:1094387478313570314> Love Me Like This"
+        }
+    ],
+    "NMLM_HW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NMIXX HAEWON Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/HW_C.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:ac_emblem:1086608258464235540> Love Me Like This"
+        }
+    ],
+    "NMLM_HW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NMIXX HAEWON Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/HW_B.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
+        }
+    ],
+    "NMLM_HW_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NMIXX HAEWON Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/HW_A.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_a:1094386551212998778> Love Me Like This"
+        }
+    ],
+    "NMLM_HW_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NMIXX HAEWON Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/HW_S.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_s:1094387291784495134> Love Me Like This"
+        }
+    ],
+    "NMLM_HW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **NMIXX HAEWON Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/HW_R.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_r:1094387478313570314> Love Me Like This"
+        }
+    ],
+    "NMLM_SY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NMIXX SULLYON Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/SY_C.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:ac_emblem:1086608258464235540> Love Me Like This"
+        }
+    ],
+    "NMLM_SY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NMIXX SULLYON Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/SY_B.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
+        }
+    ],
+    "NMLM_SY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NMIXX SULLYON Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/SY_A.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_a:1094386551212998778> Love Me Like This"
+        }
+    ],
+    "NMLM_SY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NMIXX SULLYON Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/SY_S.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_s:1094387291784495134> Love Me Like This"
+        }
+    ],
+    "NMLM_SY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **NMIXX SULLYON Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/SY_R.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_r:1094387478313570314> Love Me Like This"
+        }
+    ],
+    "NMLM_BA_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NMIXX BAE Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/BA_C.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:ac_emblem:1086608258464235540> Love Me Like This"
+        }
+    ],
+    "NMLM_BA_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NMIXX BAE Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/BA_B.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
+        }
+    ],
+    "NMLM_BA_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NMIXX BAE Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/BA_A.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_a:1094386551212998778> Love Me Like This"
+        }
+    ],
+    "NMLM_BA_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NMIXX BAE Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/BA_S.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_s:1094387291784495134> Love Me Like This"
+        }
+    ],
+    "NMLM_BA_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **NMIXX BAE Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/BA_R.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_r:1094387478313570314> Love Me Like This"
+        }
+    ],
+    "NMLM_JW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NMIXX JIWOO Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/JW_C.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:ac_emblem:1086608258464235540> Love Me Like This"
+        }
+    ],
+    "NMLM_JW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NMIXX JIWOO Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/JW_B.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
+        }
+    ],
+    "NMLM_JW_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NMIXX JIWOO Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/JW_A.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_a:1094386551212998778> Love Me Like This"
+        }
+    ],
+    "NMLM_JW_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NMIXX JIWOO Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/JW_S.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_s:1094387291784495134> Love Me Like This"
+        }
+    ],
+    "NMLM_JW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **NMIXX JIWOO Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/JW_R.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_r:1094387478313570314> Love Me Like This"
+        }
+    ],
+    "NMLM_KJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NMIXX KYUJIN Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/KJ_C.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:ac_emblem:1086608258464235540> Love Me Like This"
+        }
+    ],
+    "NMLM_KJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NMIXX KYUJIN Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/KJ_B.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
+        }
+    ],
+    "NMLM_KJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NMIXX KYUJIN Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/KJ_A.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_a:1094386551212998778> Love Me Like This"
+        }
+    ],
+    "NMLM_KJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NMIXX KYUJIN Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/KJ_S.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_s:1094387291784495134> Love Me Like This"
+        }
+    ],
+    "NMLM_KJ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **NMIXX KYUJIN Love Me Like This**",
+            "image": "https://yoshihwan.sirv.com/cards/nmixx/lmlt/KJ_R.png?format=png",
+            "theme": "Love Me Like This",
+            "inv": "<:emblem_r:1094387478313570314> Love Me Like This"
+        }
     ]
 }
