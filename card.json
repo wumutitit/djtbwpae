@@ -2438,5 +2438,165 @@
             "theme": "Love Me Like This",
             "inv": "<:emblem_r:1094387478313570314> Love Me Like This"
         }
+    ],
+    "MVPD_SI_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **MAVE SIU PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/SI_C.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:ac_emblem:1086608258464235540> PANDORA"
+        }
+    ],
+    "MVPD_SI_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **MAVE SIU PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/SI_B.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:B_LOGO:1089020310508015626> PANDORA"
+        }
+    ],
+    "MVPD_SI_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **MAVE SIU PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/SI_A.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:emblem_a:1094386551212998778> PANDORA"
+        }
+    ],
+    "MVPD_SI_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **MAVE SIU PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/SI_S.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:emblem_s:1094387291784495134> PANDORA"
+        }
+    ],
+    "MVPD_SI_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **MAVE SIU PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/SI_R.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:emblem_r:1094387478313570314> PANDORA"
+        }
+    ],
+    "MVPD_ZN_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **MAVE ZENA PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/ZN_C.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:ac_emblem:1086608258464235540> PANDORA"
+        }
+    ],
+    "MVPD_ZN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **MAVE ZENA PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/ZN_B.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:B_LOGO:1089020310508015626> PANDORA"
+        }
+    ],
+    "MVPD_ZN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **MAVE ZENA PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/ZN_A.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:emblem_a:1094386551212998778> PANDORA"
+        }
+    ],
+    "MVPD_ZN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **MAVE ZENA PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/ZN_S.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:emblem_s:1094387291784495134> PANDORA"
+        }
+    ],
+    "MVPD_ZN_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **MAVE ZENA PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/ZN_R.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:emblem_r:1094387478313570314> PANDORA"
+        }
+    ],
+    "MVPD_TR_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **MAVE TYRA PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/TR_C.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:ac_emblem:1086608258464235540> PANDORA"
+        }
+    ],
+    "MVPD_TR_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **MAVE TYRA PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/TR_B.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:B_LOGO:1089020310508015626> PANDORA"
+        }
+    ],
+    "MVPD_TR_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **MAVE TYRA PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/TR_A.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:emblem_a:1094386551212998778> PANDORA"
+        }
+    ],
+    "MVPD_TR_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **MAVE TYRA PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/TR_S.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:emblem_s:1094387291784495134> PANDORA"
+        }
+    ],
+    "MVPD_TR_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **MAVE TYRA PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/TR_R.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:emblem_r:1094387478313570314> PANDORA"
+        }
+    ],
+    "MVPD_MT_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **MAVE MARTY PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/MT_C.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:ac_emblem:1086608258464235540> PANDORA"
+        }
+    ],
+    "MVPD_MT_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **MAVE MARTY PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/MT_B.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:B_LOGO:1089020310508015626> PANDORA"
+        }
+    ],
+    "MVPD_MT_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **MAVE MARTY PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/MT_A.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:emblem_a:1094386551212998778> PANDORA"
+        }
+    ],
+    "MVPD_MT_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **MAVE MARTY PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/MT_S.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:emblem_s:1094387291784495134> PANDORA"
+        }
+    ],
+    "MVPD_MT_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **MAVE MARTY PANDORA**",
+            "image": "https://yoshihwan.sirv.com/cards/mave/pandora/MT_R.png?format=png",
+            "theme": "PANDORA",
+            "inv": "<:emblem_r:1094387478313570314> PANDORA"
+        }
     ]
 }
