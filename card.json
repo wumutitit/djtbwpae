@@ -2598,5 +2598,165 @@
             "theme": "PANDORA",
             "inv": "<:emblem_r:1094387478313570314> PANDORA"
         }
+    ],
+    "BNOO_SH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYNEXTDOOR SUNGHO One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/SH_C.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:ac_emblem:1086608258464235540> One and Only"
+        }
+    ],
+    "BNOO_SH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BOYNEXTDOOR SUNGHO One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/SH_B.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:B_LOGO:1089020310508015626> One and Only"
+        }
+    ],
+    "BNOO_SH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYNEXTDOOR SUNGHO One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/SH_A.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:emblem_a:1094386551212998778> One and Only"
+        }
+    ],
+    "BNOO_SH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **BOYNEXTDOOR SUNGHO One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/SH_S.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:emblem_s:1094387291784495134> One and Only"
+        }
+    ],
+    "BNOO_SH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYNEXTDOOR SUNGHO One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/SH_R.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:emblem_r:1094387478313570314> One and Only"
+        }
+    ],
+    "BNOO_RW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYNEXTDOOR RIWOO One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/RW_C.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:ac_emblem:1086608258464235540> One and Only"
+        }
+    ],
+    "BNOO_RW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BOYNEXTDOOR RIWOO One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/RW_B.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:B_LOGO:1089020310508015626> One and Only"
+        }
+    ],
+    "BNOO_RW_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYNEXTDOOR RIWOO One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/RW_A.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:emblem_a:1094386551212998778> One and Only"
+        }
+    ],
+    "BNOO_RW_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **BOYNEXTDOOR RIWOO One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/RW_S.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:emblem_s:1094387291784495134> One and Only"
+        }
+    ],
+    "BNOO_RW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYNEXTDOOR RIWOO One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/RW_R.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:emblem_r:1094387478313570314> One and Only"
+        }
+    ],
+    "BNOO_JH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYNEXTDOOR JAEHYUN One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/JH_C.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:ac_emblem:1086608258464235540> One and Only"
+        }
+    ],
+    "BNOO_JH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BOYNEXTDOOR JAEHYUN One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/JH_B.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:B_LOGO:1089020310508015626> One and Only"
+        }
+    ],
+    "BNOO_JH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYNEXTDOOR JAEHYUN One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/JH_A.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:emblem_a:1094386551212998778> One and Only"
+        }
+    ],
+    "BNOO_JH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **BOYNEXTDOOR JAEHYUN One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/JH_S.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:emblem_s:1094387291784495134> One and Only"
+        }
+    ],
+    "BNOO_JH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYNEXTDOOR JAEHYUN One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/JH_R.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:emblem_r:1094387478313570314> One and Only"
+        }
+    ],
+    "BNOO_TS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **BOYNEXTDOOR TAESAN One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/TS_C.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:ac_emblem:1086608258464235540> One and Only"
+        }
+    ],
+    "BNOO_TS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **BOYNEXTDOOR TAESAN One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/TS_B.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:B_LOGO:1089020310508015626> One and Only"
+        }
+    ],
+    "BNOO_TS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **BOYNEXTDOOR TAESAN One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/TS_A.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:emblem_a:1094386551212998778> One and Only"
+        }
+    ],
+    "BNOO_TS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **BOYNEXTDOOR TAESAN One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/TS_S.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:emblem_s:1094387291784495134> One and Only"
+        }
+    ],
+    "BNOO_TS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **BOYNEXTDOOR TAESAN One and Only**",
+            "image": "https://yoshihwan.sirv.com/cards/boynextdoor/oneandonly/TS_R.png?format=png",
+            "theme": "One and Only",
+            "inv": "<:emblem_r:1094387478313570314> One and Only"
+        }
     ]
 }
