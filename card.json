@@ -3038,5 +3038,245 @@
             "theme": "I'm a mess",
             "inv": "<:emblem_r:1094387478313570314> I'm a mess"
         }
+    ],
+    "IVTI_YJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IVE YUJIN That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/YJ_C.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:ac_emblem:1086608258464235540> That is who I AM"
+        }
+    ],
+    "IVTI_YJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE YUJIN That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/YJ_B.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:B_LOGO:1089020310508015626> That is who I AM"
+        }
+    ],
+    "IVTI_YJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IVE YUJIN That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/YJ_A.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_a:1094386551212998778> That is who I AM"
+        }
+    ],
+    "IVTI_YJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE YUJIN That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/YJ_S.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_s:1094387291784495134> That is who I AM"
+        }
+    ],
+    "IVTI_YJ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IVE YUJIN That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/YJ_R.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_r:1094387478313570314> That is who I AM"
+        }
+    ],
+    "IVTI_GA_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IVE GAEUL That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/GA_C.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:ac_emblem:1086608258464235540> That is who I AM"
+        }
+    ],
+    "IVTI_GA_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE GAEUL That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/GA_B.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:B_LOGO:1089020310508015626> That is who I AM"
+        }
+    ],
+    "IVTI_GA_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IVE GAEUL That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/GA_A.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_a:1094386551212998778> That is who I AM"
+        }
+    ],
+    "IVTI_GA_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE GAEUL That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/GA_S.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_s:1094387291784495134> That is who I AM"
+        }
+    ],
+    "IVTI_GA_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IVE GAEUL That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/GA_R.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_r:1094387478313570314> That is who I AM"
+        }
+    ],
+    "IVTI_RE_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IVE REI That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/RE_C.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:ac_emblem:1086608258464235540> That is who I AM"
+        }
+    ],
+    "IVTI_RE_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE REI That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/RE_B.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:B_LOGO:1089020310508015626> That is who I AM"
+        }
+    ],
+    "IVTI_RE_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IVE REI That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/RE_A.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_a:1094386551212998778> That is who I AM"
+        }
+    ],
+    "IVTI_RE_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE REI That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/RE_S.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_s:1094387291784495134> That is who I AM"
+        }
+    ],
+    "IVTI_RE_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IVE REI That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/RE_R.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_r:1094387478313570314> That is who I AM"
+        }
+    ],
+    "IVTI_WY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IVE WONYOUNG That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/WY_C.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:ac_emblem:1086608258464235540> That is who I AM"
+        }
+    ],
+    "IVTI_WY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE WONYOUNG That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/WY_B.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:B_LOGO:1089020310508015626> That is who I AM"
+        }
+    ],
+    "IVTI_WY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IVE WONYOUNG That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/WY_A.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_a:1094386551212998778> That is who I AM"
+        }
+    ],
+    "IVTI_WY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE WONYOUNG That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/WY_S.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_s:1094387291784495134> That is who I AM"
+        }
+    ],
+    "IVTI_WY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IVE WONYOUNG That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/WY_R.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_r:1094387478313570314> That is who I AM"
+        }
+    ],
+    "IVTI_LI_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IVE LIZ That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/LI_C.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:ac_emblem:1086608258464235540> That is who I AM"
+        }
+    ],
+    "IVTI_LI_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE LIZ That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/LI_B.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:B_LOGO:1089020310508015626> That is who I AM"
+        }
+    ],
+    "IVTI_LI_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IVE LIZ That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/LI_A.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_a:1094386551212998778> That is who I AM"
+        }
+    ],
+    "IVTI_LI_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE LIZ That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/LI_S.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_s:1094387291784495134> That is who I AM"
+        }
+    ],
+    "IVTI_LI_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IVE LIZ That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/LI_R.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_r:1094387478313570314> That is who I AM"
+        }
+    ],
+    "IVTI_LS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **IVE LEESEO That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/LS_C.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:ac_emblem:1086608258464235540> That is who I AM"
+        }
+    ],
+    "IVTI_LS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **IVE LEESEO That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/LS_B.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:B_LOGO:1089020310508015626> That is who I AM"
+        }
+    ],
+    "IVTI_LS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **IVE LEESEO That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/LS_A.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_a:1094386551212998778> That is who I AM"
+        }
+    ],
+    "IVTI_LS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **IVE LEESEO That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/LS_S.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_s:1094387291784495134> That is who I AM"
+        }
+    ],
+    "IVTI_LS_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **IVE LEESEO That is who I AM**",
+            "image": "https://yoshihwan.sirv.com/cards/ive/tiwia/LS_R.png?format=png",
+            "theme": "That is who I AM",
+            "inv": "<:emblem_r:1094387478313570314> That is who I AM"
+        }
     ]
 }
