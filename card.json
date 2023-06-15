@@ -2838,5 +2838,205 @@
             "theme": "One and Only",
             "inv": "<:emblem_r:1094387478313570314> One and Only"
         }
+    ],
+    "LSIM_CW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM CHAEWON I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/CW_C.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:ac_emblem:1086608258464235540> I'm a mess"
+        }
+    ],
+    "LSIM_CW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **LE SSERAFIM CHAEWON I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/CW_B.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:B_LOGO:1089020310508015626> I'm a mess"
+        }
+    ],
+    "LSIM_CW_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **LE SSERAFIM CHAEWON I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/CW_A.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_a:1094386551212998778> I'm a mess"
+        }
+    ],
+    "LSIM_CW_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **LE SSERAFIM CHAEWON I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/CW_S.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_s:1094387291784495134> I'm a mess"
+        }
+    ],
+    "LSIM_CW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **LE SSERAFIM CHAEWON I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/CW_R.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_r:1094387478313570314> I'm a mess"
+        }
+    ],
+    "LSIM_SK_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM SAKURA I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/SK_C.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:ac_emblem:1086608258464235540> I'm a mess"
+        }
+    ],
+    "LSIM_SK_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **LE SSERAFIM SAKURA I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/SK_B.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:B_LOGO:1089020310508015626> I'm a mess"
+        }
+    ],
+    "LSIM_SK_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **LE SSERAFIM SAKURA I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/SK_A.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_a:1094386551212998778> I'm a mess"
+        }
+    ],
+    "LSIM_SK_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **LE SSERAFIM SAKURA I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/SK_S.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_s:1094387291784495134> I'm a mess"
+        }
+    ],
+    "LSIM_SK_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **LE SSERAFIM SAKURA I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/SK_R.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_r:1094387478313570314> I'm a mess"
+        }
+    ],
+    "LSIM_YJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM YUNJIN I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/YJ_C.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:ac_emblem:1086608258464235540> I'm a mess"
+        }
+    ],
+    "LSIM_YJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **LE SSERAFIM YUNJIN I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/YJ_B.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:B_LOGO:1089020310508015626> I'm a mess"
+        }
+    ],
+    "LSIM_YJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **LE SSERAFIM YUNJIN I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/YJ_A.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_a:1094386551212998778> I'm a mess"
+        }
+    ],
+    "LSIM_YJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **LE SSERAFIM YUNJIN I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/YJ_S.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_s:1094387291784495134> I'm a mess"
+        }
+    ],
+    "LSIM_YJ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **LE SSERAFIM YUNJIN I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/YJ_R.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_r:1094387478313570314> I'm a mess"
+        }
+    ],
+    "LSIM_KZ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM KAZUHA I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/KZ_C.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:ac_emblem:1086608258464235540> I'm a mess"
+        }
+    ],
+    "LSIM_KZ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **LE SSERAFIM KAZUHA I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/KZ_B.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:B_LOGO:1089020310508015626> I'm a mess"
+        }
+    ],
+    "LSIM_KZ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **LE SSERAFIM KAZUHA I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/KZ_A.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_a:1094386551212998778> I'm a mess"
+        }
+    ],
+    "LSIM_KZ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **LE SSERAFIM KAZUHA I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/KZ_S.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_s:1094387291784495134> I'm a mess"
+        }
+    ],
+    "LSIM_KZ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **LE SSERAFIM KAZUHA I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/KZ_R.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_r:1094387478313570314> I'm a mess"
+        }
+    ],
+    "LSIM_EC_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **LE SSERAFIM EUNCHAE I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/EC_C.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:ac_emblem:1086608258464235540> I'm a mess"
+        }
+    ],
+    "LSIM_EC_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **LE SSERAFIM EUNCHAE I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/EC_B.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:B_LOGO:1089020310508015626> I'm a mess"
+        }
+    ],
+    "LSIM_EC_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **LE SSERAFIM EUNCHAE I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/EC_A.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_a:1094386551212998778> I'm a mess"
+        }
+    ],
+    "LSIM_EC_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **LE SSERAFIM EUNCHAE I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/EC_S.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_s:1094387291784495134> I'm a mess"
+        }
+    ],
+    "LSIM_EC_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **LE SSERAFIM EUNCHAE I'm a mess**",
+            "image": "https://yoshihwan.sirv.com/cards/lesserafim/imamess/EC_R.png?format=png",
+            "theme": "I'm a mess",
+            "inv": "<:emblem_r:1094387478313570314> I'm a mess"
+        }
     ]
 }
