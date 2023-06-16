@@ -3278,5 +3278,365 @@
             "theme": "That is who I AM",
             "inv": "<:emblem_r:1094387478313570314> That is who I AM"
         }
+    ],
+    "ZBHI_JW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 JIWOONG Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/JW_C.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:ac_emblem:1086608258464235540> Here I Am"
+        }
+    ],
+    "ZBHI_JW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 JIWOONG Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/JW_B.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:B_LOGO:1089020310508015626> Here I Am"
+        }
+    ],
+    "ZBHI_JW_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 JIWOONG Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/JW_A.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_a:1094386551212998778> Here I Am"
+        }
+    ],
+    "ZBHI_JW_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 JIWOONG Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/JW_S.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_s:1094387291784495134> Here I Am"
+        }
+    ],
+    "ZBHI_JW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 JIWOONG Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/JW_R.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_r:1094387478313570314> Here I Am"
+        }
+    ],
+    "ZBHI_ZH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 ZHANGHAO Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/ZH_C.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:ac_emblem:1086608258464235540> Here I Am"
+        }
+    ],
+    "ZBHI_ZH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 ZHANGHAO Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/ZH_B.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:B_LOGO:1089020310508015626> Here I Am"
+        }
+    ],
+    "ZBHI_ZH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 ZHANGHAO Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/ZH_A.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_a:1094386551212998778> Here I Am"
+        }
+    ],
+    "ZBHI_ZH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 ZHANGHAO Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/ZH_S.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_s:1094387291784495134> Here I Am"
+        }
+    ],
+    "ZBHI_ZH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 ZHANGHAO Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/ZH_R.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_r:1094387478313570314> Here I Am"
+        }
+    ],
+    "ZBHI_HB_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 HANBIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/HB_C.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:ac_emblem:1086608258464235540> Here I Am"
+        }
+    ],
+    "ZBHI_HB_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 HANBIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/HB_B.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:B_LOGO:1089020310508015626> Here I Am"
+        }
+    ],
+    "ZBHI_HB_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 HANBIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/HB_A.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_a:1094386551212998778> Here I Am"
+        }
+    ],
+    "ZBHI_HB_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 HANBIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/HB_S.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_s:1094387291784495134> Here I Am"
+        }
+    ],
+    "ZBHI_HB_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 HANBIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/HB_R.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_r:1094387478313570314> Here I Am"
+        }
+    ],
+    "ZBHI_MT_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 MATTHEW Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/MT_C.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:ac_emblem:1086608258464235540> Here I Am"
+        }
+    ],
+    "ZBHI_MT_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 MATTHEW Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/MT_B.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:B_LOGO:1089020310508015626> Here I Am"
+        }
+    ],
+    "ZBHI_MT_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 MATTHEW Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/MT_A.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_a:1094386551212998778> Here I Am"
+        }
+    ],
+    "ZBHI_MT_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 MATTHEW Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/MT_S.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_s:1094387291784495134> Here I Am"
+        }
+    ],
+    "ZBHI_MT_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 MATTHEW Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/MT_R.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_r:1094387478313570314> Here I Am"
+        }
+    ],
+    "ZBHI_RK_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 RICKY Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/RK_C.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:ac_emblem:1086608258464235540> Here I Am"
+        }
+    ],
+    "ZBHI_RK_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 RICKY Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/RK_B.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:B_LOGO:1089020310508015626> Here I Am"
+        }
+    ],
+    "ZBHI_RK_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 RICKY Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/RK_A.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_a:1094386551212998778> Here I Am"
+        }
+    ],
+    "ZBHI_RK_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 RICKY Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/RK_S.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_s:1094387291784495134> Here I Am"
+        }
+    ],
+    "ZBHI_RK_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 RICKY Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/RK_R.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_r:1094387478313570314> Here I Am"
+        }
+    ],
+    "ZBHI_TR_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 TAERAE Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/TR_C.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:ac_emblem:1086608258464235540> Here I Am"
+        }
+    ],
+    "ZBHI_TR_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 TAERAE Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/TR_B.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:B_LOGO:1089020310508015626> Here I Am"
+        }
+    ],
+    "ZBHI_TR_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 TAERAE Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/TR_A.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_a:1094386551212998778> Here I Am"
+        }
+    ],
+    "ZBHI_TR_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 TAERAE Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/TR_S.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_s:1094387291784495134> Here I Am"
+        }
+    ],
+    "ZBHI_TR_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 TAERAE Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/TR_R.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_r:1094387478313570314> Here I Am"
+        }
+    ],
+    "ZBHI_GV_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 GYUVIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/GV_C.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:ac_emblem:1086608258464235540> Here I Am"
+        }
+    ],
+    "ZBHI_GV_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 GYUVIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/GV_B.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:B_LOGO:1089020310508015626> Here I Am"
+        }
+    ],
+    "ZBHI_GV_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 GYUVIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/GV_A.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_a:1094386551212998778> Here I Am"
+        }
+    ],
+    "ZBHI_GV_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 GYUVIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/GV_S.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_s:1094387291784495134> Here I Am"
+        }
+    ],
+    "ZBHI_GV_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 GYUVIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/GV_R.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_r:1094387478313570314> Here I Am"
+        }
+    ],
+    "ZBHI_GW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 GUNWOOK Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/GW_C.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:ac_emblem:1086608258464235540> Here I Am"
+        }
+    ],
+    "ZBHI_GW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 GUNWOOK Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/GW_B.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:B_LOGO:1089020310508015626> Here I Am"
+        }
+    ],
+    "ZBHI_GW_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 GUNWOOK Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/GW_A.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_a:1094386551212998778> Here I Am"
+        }
+    ],
+    "ZBHI_GW_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 GUNWOOK Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/GW_S.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_s:1094387291784495134> Here I Am"
+        }
+    ],
+    "ZBHI_GW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 GUNWOOK Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/GW_R.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_r:1094387478313570314> Here I Am"
+        }
+    ],
+    "ZBHI_YJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 YUJIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/YJ_C.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:ac_emblem:1086608258464235540> Here I Am"
+        }
+    ],
+    "ZBHI_YJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 YUJIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/YJ_B.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:B_LOGO:1089020310508015626> Here I Am"
+        }
+    ],
+    "ZBHI_YJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 YUJIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/YJ_A.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_a:1094386551212998778> Here I Am"
+        }
+    ],
+    "ZBHI_YJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 YUJIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/YJ_S.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_s:1094387291784495134> Here I Am"
+        }
+    ],
+    "ZBHI_YJ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 YUJIN Here I Am**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/hereiam/YJ_R.png?format=png",
+            "theme": "Here I Am",
+            "inv": "<:emblem_r:1094387478313570314> Here I Am"
+        }
     ]
 }
