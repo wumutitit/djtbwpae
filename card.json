@@ -3638,5 +3638,325 @@
             "theme": "Here I Am",
             "inv": "<:emblem_r:1094387478313570314> Here I Am"
         }
+    ],
+    "ZBSH_JW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 JIWOONG I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/JW_C.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:ac_emblem:1086608258464235540> I AM SHINING"
+        }
+    ],
+    "ZBSH_JW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 JIWOONG I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/JW_B.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:B_LOGO:1089020310508015626> I AM SHINING"
+        }
+    ],
+    "ZBSH_JW_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 JIWOONG I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/JW_A.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_a:1094386551212998778> I AM SHINING"
+        }
+    ],
+    "ZBSH_JW_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 JIWOONG I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/JW_S.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_s:1094387291784495134> I AM SHINING"
+        }
+    ],
+    "ZBSH_JW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 JIWOONG I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/JW_R.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_r:1094387478313570314> I AM SHINING"
+        }
+    ],
+    "ZBSH_ZH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 ZHANGHAO I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/ZH_C.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:ac_emblem:1086608258464235540> I AM SHINING"
+        }
+    ],
+    "ZBSH_ZH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 ZHANGHAO I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/ZH_B.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:B_LOGO:1089020310508015626> I AM SHINING"
+        }
+    ],
+    "ZBSH_ZH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 ZHANGHAO I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/ZH_A.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_a:1094386551212998778> I AM SHINING"
+        }
+    ],
+    "ZBSH_ZH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 ZHANGHAO I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/ZH_S.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_s:1094387291784495134> I AM SHINING"
+        }
+    ],
+    "ZBSH_ZH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 ZHANGHAO I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/ZH_R.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_r:1094387478313570314> I AM SHINING"
+        }
+    ],
+    "ZBSH_HB_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 HANBIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/HB_C.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:ac_emblem:1086608258464235540> I AM SHINING"
+        }
+    ],
+    "ZBSH_HB_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 HANBIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/HB_B.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:B_LOGO:1089020310508015626> I AM SHINING"
+        }
+    ],
+    "ZBSH_HB_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 HANBIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/HB_A.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_a:1094386551212998778> I AM SHINING"
+        }
+    ],
+    "ZBSH_HB_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 HANBIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/HB_S.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_s:1094387291784495134> I AM SHINING"
+        }
+    ],
+    "ZBSH_HB_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 HANBIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/HB_R.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_r:1094387478313570314> I AM SHINING"
+        }
+    ],
+    "ZBSH_MT_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 MATTHEW I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/MT_C.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:ac_emblem:1086608258464235540> I AM SHINING"
+        }
+    ],
+    "ZBSH_MT_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 MATTHEW I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/MT_B.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:B_LOGO:1089020310508015626> I AM SHINING"
+        }
+    ],
+    "ZBSH_MT_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 MATTHEW I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/MT_A.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_a:1094386551212998778> I AM SHINING"
+        }
+    ],
+    "ZBSH_MT_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 MATTHEW I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/MT_S.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_s:1094387291784495134> I AM SHINING"
+        }
+    ],
+    "ZBSH_MT_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 MATTHEW I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/MT_R.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_r:1094387478313570314> I AM SHINING"
+        }
+    ],
+    "ZBSH_RK_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 RICKY I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/RK_C.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:ac_emblem:1086608258464235540> I AM SHINING"
+        }
+    ],
+    "ZBSH_RK_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 RICKY I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/RK_B.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:B_LOGO:1089020310508015626> I AM SHINING"
+        }
+    ],
+    "ZBSH_RK_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 RICKY I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/RK_A.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_a:1094386551212998778> I AM SHINING"
+        }
+    ],
+    "ZBSH_RK_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 RICKY I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/RK_S.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_s:1094387291784495134> I AM SHINING"
+        }
+    ],
+    "ZBSH_RK_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 RICKY I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/RK_R.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_r:1094387478313570314> I AM SHINING"
+        }
+    ],
+    "ZBSH_GV_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 GYUVIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/GV_C.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:ac_emblem:1086608258464235540> I AM SHINING"
+        }
+    ],
+    "ZBSH_GV_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 GYUVIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/GV_B.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:B_LOGO:1089020310508015626> I AM SHINING"
+        }
+    ],
+    "ZBSH_GV_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 GYUVIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/GV_A.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_a:1094386551212998778> I AM SHINING"
+        }
+    ],
+    "ZBSH_GV_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 GYUVIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/GV_S.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_s:1094387291784495134> I AM SHINING"
+        }
+    ],
+    "ZBSH_GV_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 GYUVIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/GV_R.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_r:1094387478313570314> I AM SHINING"
+        }
+    ],
+    "ZBSH_GW_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 GUNWOOK I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/GW_C.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:ac_emblem:1086608258464235540> I AM SHINING"
+        }
+    ],
+    "ZBSH_GW_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 GUNWOOK I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/GW_B.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:B_LOGO:1089020310508015626> I AM SHINING"
+        }
+    ],
+    "ZBSH_GW_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 GUNWOOK I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/GW_A.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_a:1094386551212998778> I AM SHINING"
+        }
+    ],
+    "ZBSH_GW_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 GUNWOOK I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/GW_S.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_s:1094387291784495134> I AM SHINING"
+        }
+    ],
+    "ZBSH_GW_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 GUNWOOK I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/GW_R.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_r:1094387478313570314> I AM SHINING"
+        }
+    ],
+    "ZBSH_YJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ZB1 YUJIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/YJ_C.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:ac_emblem:1086608258464235540> I AM SHINING"
+        }
+    ],
+    "ZBSH_YJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ZB1 YUJIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/YJ_B.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:B_LOGO:1089020310508015626> I AM SHINING"
+        }
+    ],
+    "ZBSH_YJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ZB1 YUJIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/YJ_A.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_a:1094386551212998778> I AM SHINING"
+        }
+    ],
+    "ZBSH_YJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ZB1 YUJIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/YJ_S.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_s:1094387291784495134> I AM SHINING"
+        }
+    ],
+    "ZBSH_YJ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ZB1 YUJIN I AM SHINING**",
+            "image": "https://yoshihwan.sirv.com/cards/zb1/iamshining/YJ_R.png?format=png",
+            "theme": "I AM SHINING",
+            "inv": "<:emblem_r:1094387478313570314> I AM SHINING"
+        }
     ]
 }
