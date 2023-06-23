@@ -3958,5 +3958,285 @@
             "theme": "I AM SHINING",
             "inv": "<:emblem_r:1094387478313570314> I AM SHINING"
         }
+    ],
+    "NDCD_MA_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NCT DREAM MARK Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/MA_C.png?format=png",
+            "theme": "Candy",
+            "inv": "<:ac_emblem:1086608258464235540> Candy"
+        }
+    ],
+    "NDCD_MA_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NCT DREAM MARK Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/MA_B.png?format=png",
+            "theme": "Candy",
+            "inv": "<:B_LOGO:1089020310508015626> Candy"
+        }
+    ],
+    "NDCD_MA_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NCT DREAM MARK Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/MA_A.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_a:1094386551212998778> Candy"
+        }
+    ],
+    "NDCD_MA_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NCT DREAM MARK Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/MA_S.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_s:1094387291784495134> Candy"
+        }
+    ],
+    "NDCD_MA_R":
+        {
+            "name": "<:emblem_r:1094387478313570314> **NCT DREAM MARK Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/MA_R.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_r:1094387478313570314> Candy"
+        }
+    ],
+    "NDCD_RJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NCT DREAM RENJUN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/RJ_C.png?format=png",
+            "theme": "Candy",
+            "inv": "<:ac_emblem:1086608258464235540> Candy"
+        }
+    ],
+    "NDCD_RJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NCT DREAM RENJUN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/RJ_B.png?format=png",
+            "theme": "Candy",
+            "inv": "<:B_LOGO:1089020310508015626> Candy"
+        }
+    ],
+    "NDCD_RJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NCT DREAM RENJUN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/RJ_A.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_a:1094386551212998778> Candy"
+        }
+    ],
+    "NDCD_RJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NCT DREAM RENJUN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/RJ_S.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_s:1094387291784495134> Candy"
+        }
+    ],
+    "NDCD_RJ_R":
+        {
+            "name": "<:emblem_r:1094387478313570314> **NCT DREAM RENJUN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/RJ_R.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_r:1094387478313570314> Candy"
+        }
+    ],
+    "NDCD_JN_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NCT DREAM JENO Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JN_C.png?format=png",
+            "theme": "Candy",
+            "inv": "<:ac_emblem:1086608258464235540> Candy"
+        }
+    ],
+    "NDCD_JN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NCT DREAM JENO Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JN_B.png?format=png",
+            "theme": "Candy",
+            "inv": "<:B_LOGO:1089020310508015626> Candy"
+        }
+    ],
+    "NDCD_JN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NCT DREAM JENO Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JN_A.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_a:1094386551212998778> Candy"
+        }
+    ],
+    "NDCD_JN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NCT DREAM JENO Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JN_S.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_s:1094387291784495134> Candy"
+        }
+    ],
+    "NDCD_JN_R":
+        {
+            "name": "<:emblem_r:1094387478313570314> **NCT DREAM JENO Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JN_R.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_r:1094387478313570314> Candy"
+        }
+    ],
+    "NDCD_HC_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NCT DREAM HAECHAN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/HC_C.png?format=png",
+            "theme": "Candy",
+            "inv": "<:ac_emblem:1086608258464235540> Candy"
+        }
+    ],
+    "NDCD_HC_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NCT DREAM HAECHAN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/HC_B.png?format=png",
+            "theme": "Candy",
+            "inv": "<:B_LOGO:1089020310508015626> Candy"
+        }
+    ],
+    "NDCD_HC_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NCT DREAM HAECHAN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/HC_A.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_a:1094386551212998778> Candy"
+        }
+    ],
+    "NDCD_HC_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NCT DREAM HAECHAN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/HC_S.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_s:1094387291784495134> Candy"
+        }
+    ],
+    "NDCD_HC_R":
+        {
+            "name": "<:emblem_r:1094387478313570314> **NCT DREAM HAECHAN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/HC_R.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_r:1094387478313570314> Candy"
+        }
+    ],
+    "NDCD_JM_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NCT DREAM JAEMIN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JM_C.png?format=png",
+            "theme": "Candy",
+            "inv": "<:ac_emblem:1086608258464235540> Candy"
+        }
+    ],
+    "NDCD_JM_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NCT DREAM JAEMIN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JM_B.png?format=png",
+            "theme": "Candy",
+            "inv": "<:B_LOGO:1089020310508015626> Candy"
+        }
+    ],
+    "NDCD_JM_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NCT DREAM JAEMIN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JM_A.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_a:1094386551212998778> Candy"
+        }
+    ],
+    "NDCD_JM_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NCT DREAM JAEMIN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JM_S.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_s:1094387291784495134> Candy"
+        }
+    ],
+    "NDCD_JM_R":
+        {
+            "name": "<:emblem_r:1094387478313570314> **NCT DREAM JAEMIN Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JM_R.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_r:1094387478313570314> Candy"
+        }
+    ],
+    "NDCD_CL_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NCT DREAM CHENLE Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/CL_C.png?format=png",
+            "theme": "Candy",
+            "inv": "<:ac_emblem:1086608258464235540> Candy"
+        }
+    ],
+    "NDCD_CL_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NCT DREAM CHENLE Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/CL_B.png?format=png",
+            "theme": "Candy",
+            "inv": "<:B_LOGO:1089020310508015626> Candy"
+        }
+    ],
+    "NDCD_CL_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NCT DREAM CHENLE Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/CL_A.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_a:1094386551212998778> Candy"
+        }
+    ],
+    "NDCD_CL_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NCT DREAM CHENLE Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/CL_S.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_s:1094387291784495134> Candy"
+        }
+    ],
+    "NDCD_CL_R":
+        {
+            "name": "<:emblem_r:1094387478313570314> **NCT DREAM CHENLE Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/CL_R.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_r:1094387478313570314> Candy"
+        }
+    ],
+    "NDCD_JS_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **NCT DREAM JISUNG Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JS_C.png?format=png",
+            "theme": "Candy",
+            "inv": "<:ac_emblem:1086608258464235540> Candy"
+        }
+    ],
+    "NDCD_JS_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **NCT DREAM JISUNG Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JS_B.png?format=png",
+            "theme": "Candy",
+            "inv": "<:B_LOGO:1089020310508015626> Candy"
+        }
+    ],
+    "NDCD_JS_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **NCT DREAM JISUNG Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JS_A.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_a:1094386551212998778> Candy"
+        }
+    ],
+    "NDCD_JS_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **NCT DREAM JISUNG Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JS_S.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_s:1094387291784495134> Candy"
+        }
+    ],
+    "NDCD_JS_R":
+        {
+            "name": "<:emblem_r:1094387478313570314> **NCT DREAM JISUNG Candy**",
+            "image": "https://yoshihwan.sirv.com/cards/nct/dream/candy/JS_R.png?format=png",
+            "theme": "Candy",
+            "inv": "<:emblem_r:1094387478313570314> Candy"
+        }
     ]
 }
