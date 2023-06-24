@@ -1,4 +1,4 @@
-{
+ {
   "wallpapers": [
     {
       "JHTRYAGAIN_LIMITED": "https://haruwoo.sirv.com/wallpapers/nct/jaehyun/TRYAGAIN_LE.png?format=png",
@@ -38,7 +38,10 @@
       "NCTDREAMCHENLE_TEXT": "`Limited` **NCT DREAM CHENLE** Wallpaper",
 
       "NCTDREAMJISUNG_LIMITED": "https://haruwoo.sirv.com/wallpapers/nct/dream/limited/JISUNG.png?format=png",
-      "NCTDREAMJISUNG_TEXT": "`Limited` **NCT DREAM JISUNG** Wallpaper"
+      "NCTDREAMJISUNG_TEXT": "`Limited` **NCT DREAM JISUNG** Wallpaper",
+
+      "NCTDREAMCANDY_LIMITED": "https://haruwoo.sirv.com/wallpapers/nct/dream/candy/CANDY.png?format=png",
+      "NCTDREAMCANDY_TEXT": "`Limited` **NCT DREAM Candy** Wallpaper"
       
       
       }
