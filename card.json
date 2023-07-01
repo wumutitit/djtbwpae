@@ -4598,5 +4598,205 @@
             "theme": "Dance The Night Away",
             "inv": "<:emblem_r:1094387478313570314> Dance The Night Away"
         }
+    ],
+    "IZIC_YJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ITZY YEJI ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/YJ_C.png?format=png",
+            "theme": "ICY",
+            "inv": "<:ac_emblem:1086608258464235540> ICY"
+        }
+    ],
+    "IZIC_YJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ITZY YEJI ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/YJ_B.png?format=png",
+            "theme": "ICY",
+            "inv": "<:B_LOGO:1089020310508015626> ICY"
+        }
+    ],
+    "IZIC_YJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ITZY YEJI ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/YJ_A.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_a:1094386551212998778> ICY"
+        }
+    ],
+    "IZIC_YJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ITZY YEJI ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/YJ_S.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_s:1094387291784495134> ICY"
+        }
+    ],
+    "IZIC_YJ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ITZY YEJI ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/YJ_R.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_r:1094387478313570314> ICY"
+        }
+    ],
+    "IZIC_LI_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ITZY LIA ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/LI_C.png?format=png",
+            "theme": "ICY",
+            "inv": "<:ac_emblem:1086608258464235540> ICY"
+        }
+    ],
+    "IZIC_LI_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ITZY LIA ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/LI_B.png?format=png",
+            "theme": "ICY",
+            "inv": "<:B_LOGO:1089020310508015626> ICY"
+        }
+    ],
+    "IZIC_LI_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ITZY LIA ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/LI_A.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_a:1094386551212998778> ICY"
+        }
+    ],
+    "IZIC_LI_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ITZY LIA ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/LI_S.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_s:1094387291784495134> ICY"
+        }
+    ],
+    "IZIC_LI_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ITZY LIA ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/LI_R.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_r:1094387478313570314> ICY"
+        }
+    ],
+    "IZIC_CH_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ITZY CHAERYEONG ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/CH_C.png?format=png",
+            "theme": "ICY",
+            "inv": "<:ac_emblem:1086608258464235540> ICY"
+        }
+    ],
+    "IZIC_CH_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ITZY CHAERYEONG ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/CH_B.png?format=png",
+            "theme": "ICY",
+            "inv": "<:B_LOGO:1089020310508015626> ICY"
+        }
+    ],
+    "IZIC_CH_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ITZY CHAERYEONG ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/CH_A.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_a:1094386551212998778> ICY"
+        }
+    ],
+    "IZIC_CH_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ITZY CHAERYEONG ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/CH_S.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_s:1094387291784495134> ICY"
+        }
+    ],
+    "IZIC_CH_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ITZY CHAERYEONG ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/CH_R.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_r:1094387478313570314> ICY"
+        }
+    ],
+    "IZIC_RJ_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ITZY RYUJIN ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/RJ_C.png?format=png",
+            "theme": "ICY",
+            "inv": "<:ac_emblem:1086608258464235540> ICY"
+        }
+    ],
+    "IZIC_RJ_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ITZY RYUJIN ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/RJ_B.png?format=png",
+            "theme": "ICY",
+            "inv": "<:B_LOGO:1089020310508015626> ICY"
+        }
+    ],
+    "IZIC_RJ_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ITZY RYUJIN ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/RJ_A.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_a:1094386551212998778> ICY"
+        }
+    ],
+    "IZIC_RJ_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ITZY RYUJIN ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/RJ_S.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_s:1094387291784495134> ICY"
+        }
+    ],
+    "IZIC_RJ_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ITZY RYUJIN ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/RJ_R.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_r:1094387478313570314> ICY"
+        }
+    ],
+    "IZIC_YN_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **ITZY YUNA ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/YN_C.png?format=png",
+            "theme": "ICY",
+            "inv": "<:ac_emblem:1086608258464235540> ICY"
+        }
+    ],
+    "IZIC_YN_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **ITZY YUNA ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/YN_B.png?format=png",
+            "theme": "ICY",
+            "inv": "<:B_LOGO:1089020310508015626> ICY"
+        }
+    ],
+    "IZIC_YN_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **ITZY YUNA ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/YN_A.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_a:1094386551212998778> ICY"
+        }
+    ],
+    "IZIC_YN_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **ITZY YUNA ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/YN_S.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_s:1094387291784495134> ICY"
+        }
+    ],
+    "IZIC_YN_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **ITZY YUNA ICY**",
+            "image": "https://yoshihwan.sirv.com/cards/itzy/icy/YN_R.png?format=png",
+            "theme": "ICY",
+            "inv": "<:emblem_r:1094387478313570314> ICY"
+        }
     ]
 }
