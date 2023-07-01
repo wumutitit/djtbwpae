@@ -4521,41 +4521,82 @@
     ],
     "TWDN_CY_C": [
         {
-            "name": "<:ac_emblem:1086608258464235540> **TWICE CH Dance The Night Away**",
-            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/DH_C.png?format=png",
+            "name": "<:ac_emblem:1086608258464235540> **TWICE CHAEYOUNG Dance The Night Away**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/CY_C.png?format=png",
             "theme": "Dance The Night Away",
             "inv": "<:ac_emblem:1086608258464235540> Dance The Night Away"
         }
     ],
     "TWDN_CY_B": [
         {
-            "name": "<:ab_emblem:1086608394401620110> **TWICE DAHYUN Dance The Night Away**",
-            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/DH_B.png?format=png",
+            "name": "<:ab_emblem:1086608394401620110> **TWICE CHAEYOUNG Dance The Night Away**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/CY_B.png?format=png",
             "theme": "Dance The Night Away",
             "inv": "<:B_LOGO:1089020310508015626> Dance The Night Away"
         }
     ],
     "TWDN_CY_A": [
         {
-            "name": "<:emblem_a:1094386551212998778> **TWICE DAHYUN Dance The Night Away**",
-            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/DH_A.png?format=png",
+            "name": "<:emblem_a:1094386551212998778> **TWICE CHAEYOUNG Dance The Night Away**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/CY_A.png?format=png",
             "theme": "Dance The Night Away",
             "inv": "<:emblem_a:1094386551212998778> Dance The Night Away"
         }
     ],
     "TWDN_CY_S": [
         {
-            "name": "<:emblem_s:1094387291784495134> **TWICE DAHYUN Dance The Night Away**",
-            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/DH_S.png?format=png",
+            "name": "<:emblem_s:1094387291784495134> **TWICE CHAEYOUNG Dance The Night Away**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/CY_S.png?format=png",
             "theme": "Dance The Night Away",
             "inv": "<:emblem_s:1094387291784495134> Dance The Night Away"
         }
     ],
     "TWDN_CY_R": [
         {
-            "name": "<:emblem_r:1094387478313570314> **TWICE DAHYUN Dance The Night Away**",
-            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/DH_R.png?format=png",
+            "name": "<:emblem_r:1094387478313570314> **TWICE CHAEYOUNG Dance The Night Away**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/CY_R.png?format=png",
             "theme": "Dance The Night Away",
             "inv": "<:emblem_r:1094387478313570314> Dance The Night Away"
         }
     ],
+    "TWDN_TY_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **TWICE TZUYU Dance The Night Away**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/TY_C.png?format=png",
+            "theme": "Dance The Night Away",
+            "inv": "<:ac_emblem:1086608258464235540> Dance The Night Away"
+        }
+    ],
+    "TWDN_TY_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **TWICE TZUYU Dance The Night Away**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/TY_B.png?format=png",
+            "theme": "Dance The Night Away",
+            "inv": "<:B_LOGO:1089020310508015626> Dance The Night Away"
+        }
+    ],
+    "TWDN_TY_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **TWICE TZUYU Dance The Night Away**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/TY_A.png?format=png",
+            "theme": "Dance The Night Away",
+            "inv": "<:emblem_a:1094386551212998778> Dance The Night Away"
+        }
+    ],
+    "TWDN_TY_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **TWICE TZUYU Dance The Night Away**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/TY_S.png?format=png",
+            "theme": "Dance The Night Away",
+            "inv": "<:emblem_s:1094387291784495134> Dance The Night Away"
+        }
+    ],
+    "TWDN_TY_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **TWICE TZUYU Dance The Night Away**",
+            "image": "https://yoshihwan.sirv.com/cards/twice/dtna/TY_R.png?format=png",
+            "theme": "Dance The Night Away",
+            "inv": "<:emblem_r:1094387478313570314> Dance The Night Away"
+        }
+    ]
+}
